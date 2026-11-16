@@ -1,3 +1,8 @@
+=(CamputersLynx_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Camputers Lynx for MiSTer
 
 MiSTer core of the **Camputers Lynx** (1983) that brings together the two
